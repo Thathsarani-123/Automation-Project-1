@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="Parallel Browser Opening" parallel="methods" thread-count="3">
+   <!--&gt;<test name="MyTest">
+        <parameter name="data1" value="5"/>
+        <parameter name="data2" value="10"/>
+        <classes>
+            <class name="Inbox"/>
+        </classes>
+    </test>&#45;&#45;&#45;&#45;!>-->
+   <test name="TestingParallelBrowserOpenning">
+
+      <classes>
+         <class name="Inbox"/>
+      </classes>
+   </test>
+</suite>
