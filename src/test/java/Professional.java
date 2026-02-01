@@ -15,7 +15,7 @@ public class Professional {
     public void setUp() {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
-        driver.get("https://app.phptravels.com/signup");
+        driver.get("https://app.phptravexxxls.com/signup");
     }
     // 2️⃣ Actual test case
     @Test(priority = 0)
