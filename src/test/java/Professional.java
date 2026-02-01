@@ -17,6 +17,9 @@ public class Professional {
         driver.manage().window().maximize();
         driver.get("https://app.phptravexxxls.com/signup");
     }
+
+
+
     // 2️⃣ Actual test case
     @Test(priority = 0)
     public void loginTest() {
