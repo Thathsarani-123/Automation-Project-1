@@ -1,2 +1,2 @@
 # Automation-Project-1
-A robust, maintainable automation framework designed for end-to-end testing of the FAO Schwarz website. This project leverages Selenium WebDriver, TestNG, and Allure to automate web and API tests, generate detailed reports, and ensure the quality and reliability of the FAO Schwarz online experience.
+A robust, maintainable automation framework designed for end-to-end testing of the FAO Schwarz website. This project leverages Selenium WebDriver, TestNG, and Allure to automate web and API tests, generate detailed reports, and ensure the quality and reliability of the PHP Travels online experience.
