@@ -1,2 +1,2 @@
 # Automation-Project-1
-This is my first GitHub repository
+A robust, maintainable automation framework designed for end-to-end testing of the FAO Schwarz website. This project leverages Selenium WebDriver, TestNG, and Allure to automate web and API tests, generate detailed reports, and ensure the quality and reliability of the FAO Schwarz online experience.
