@@ -21,7 +21,7 @@ public class Professional {
 
 
     // 2️⃣ Actual test case
-    @Test(priority = 0)
+    @Test(priority = 0 )
     public void loginTest() {
 
         WebElement username = driver.findElement(By.id("email"));
